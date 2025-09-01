@@ -14,7 +14,7 @@ jobs:
     env:
       INVICTI_API_BASE_URL: "https://platform.invicti.com"
       INVICTI_API_TOKEN: INVICTI_API_TOKEN
-      INVICTI_TARGET_ID: "d97ff79b-d2ca-4760-b5e0-5214f6199f84"
+      INVICTI_TARGET_ID: "1060c242-2e5b-4156-91a5-02d364fea51b"
       INVICTI_SCAN_AGENT: "CloudAgent"
       INVICTI_SCAN_PROFILE: "Full Scan"
 
